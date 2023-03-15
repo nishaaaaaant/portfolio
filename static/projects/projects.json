@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "name": "Trend analysis of COVID-19",
+      "link": "project-1",
+      "date": "26/11/2021",
+      "short": "The aim of our project is to analyze the impact of COVID-19 on the United States as a country as well as determine how individual states have performed against COVID-19.",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-1/img.jpg"
+      ]
+    },
+    {
+      "name": "Virtual Clinic",
+      "link": "project-2",
+      "date": "20/06/2019",
+      "short": "Developed a hospital management system for hospitals to manage its doctors, patients, pharmacies and laboratories.",
+      "weight": 1,
+      "tags": [
+        "media"
+      ],
+      "photos": [
+        "/static/projects/project-2/img.jpg"
+      ]
+    },
+    {
+      "name": "Music generation Using Neural Networks",
+      "link": "project-3",
+      "date": "27/03/2020",
+      "short": "Developed a lyrics generator using NLP technique in Python3 with the help of implementing a Markov chain model that can predict a sequence of new possible lyrics.",
+      "status": "complete",
+      "weight": 2,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-1/img.jpg"
+      ]
+    },
+    {
+      "name": "CEN5035-SE-ParKS",
+      "link": "project-4",
+      "date": "21/04/2022",
+      "short": "The project aims to provide parking spaces for users who are trying to find a parking space for a short interval of time.",
+      "weight": 1,
+      "tags": [
+        "media"
+      ],
+      "photos": [
+        "/static/projects/project-2/img.jpg"
+      ]
+    },
+    {
+      "name": "Project 5",
+      "link": "project-5",
+      "date": "01/02/2003",
+      "short": "A short description of the project ...",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-1/img.jpg"
+      ]
+    },
+    {
+      "name": "Project 6",
+      "link": "project-6",
+      "date": "04/05/2006",
+      "short": "A short description of the project ...",
+      "weight": 2,
+      "tags": [
+        "media"
+      ],
+      "photos": [
+        "/static/projects/project-2/img.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "year": "2021-2023",
+    "events": [
+      {
+        "icon": "work",
+        "title": "University of Florida",
+        "content": "I am currently pursuing my Master's degree in Computer and Information Science at University of Florida. "
+      }
+    ]
+  },
+  {
+    "year": "2020-2021",
+    "events": [
+      {
+        "icon": "work",
+        "title": "Software Engineer - ADP",
+        "content": "Actively managed, improved and monitored the AWS cloud infrastructure, Kubernetes cluster, Docker containers and the CI/CD pipeline of the Lifion application. Developed a jenkins pipeline in groovy and python that deletes all the merged and conflicted branches in bitbucket to optimize the disk space. Integrated Pager-Duty with Jira that reduced the effort of manually creating tickets for high priority incidents by 100%. I was responsible for improving the reliability of system in the lower environments, fixing issues, responding to incidents and pagerduty calls. "
+      },
+      {
+        "icon": "work",
+        "title": "Devops Engineering Intern - ADP",
+        "content": "Collaborated in reinforcing the infrastructure migration to IaC for the tools Confluence and Jira. This automation removed the risk associated with human errors, manual configurations, decreased downtime and increased reliability. The output of this migration helped in delivering multi-region isolated cloud infrastructure stacks and also improving the efficiency and scalability of setting up cloud architecture."
+      }
+    ]
+  },
+  {
+    "year": "2016-2020",
+    "events": [
+      {
+        "icon": "work",
+        "title": "Vellore Insitute of Technology",
+        "content": "I graduated with a Computer Science Bachelors degree from VIT Vellore. "
+      }
+    ]
+  }
+]
